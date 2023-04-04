@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 386,
+      "category": "fun",
+      "title": "Beach drinks",
+      "description": "Drink yourself senseless by the beach",
+      "location": "Playa Del Tequila",
+      "date": "Januar 04, 1964",
+      "time": "20:00",
+      "organizer": "Sunrise Tequila"
     }
   ]
 }
